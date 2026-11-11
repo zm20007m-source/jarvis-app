@@ -1,0 +1,6 @@
+flask
+openai
+qrcode[pil]
+requests
+pyTelegramBotAPI
+exifread
